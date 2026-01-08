@@ -1,0 +1,9 @@
+torch
+torchvision
+matplotlib
+pandas
+numpy
+ipykernel
+
+
+# pip install -r requirements.txt
